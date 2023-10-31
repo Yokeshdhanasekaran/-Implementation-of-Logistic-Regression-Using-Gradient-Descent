@@ -116,19 +116,23 @@ def predict(theta,X):
 np.mean(predict(res.x,X)==y)
 ```
 # Output:
+![199067370-21f6e068-3851-4596-bad3-35dc02d079a6](https://github.com/charumathiramesh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120204455/e5311ce6-a9ee-4086-b99f-f8c6b4491790)
+![199067368-23904c41-d2d1-4e62-83d0-29a65b810abe](https://github.com/charumathiramesh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120204455/462fb7c0-fff3-4b13-94d0-b6498c351f26)
+![199067364-67b76106-9b8d-4758-a093-ec7e7f4b2d32](https://github.com/charumathiramesh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120204455/edc4acfc-30af-40ec-9c5e-eac35cb89e19)
+![199067359-63750fd2-98e8-438d-a32c-ae84cb1d27e4](https://github.com/charumathiramesh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120204455/9bd4bfca-0274-4d02-97ea-88bc4274d31a)
+![199067356-69f818c1-d425-48e8-beb3-281e00b6ecba](https://github.com/charumathiramesh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120204455/63a6de99-e789-4656-8200-b5f9cea9747b)
+![199067352-588a14f1-b111-4fc6-801d-acb4fd847520](https://github.com/charumathiramesh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120204455/ced57c1b-be0d-48a9-8d21-504778656c5f)
+![199067351-3e334116-ed7b-441b-93e6-20737be81d24](https://github.com/charumathiramesh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120204455/98c18a7b-e6c0-46db-bc53-05752a2fefbd)
+![199067346-56d58684-54aa-478a-98ac-f9841f1b846e](https://github.com/charumathiramesh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120204455/d0a35897-b5a6-42a3-a856-00ea5086697f)
+![199067342-fbdbcd76-c1d0-4fb3-95cb-d847e85e0d51](https://github.com/charumathiramesh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120204455/ccfd7a31-69c4-41ab-bac5-c019aa989b86)
+![199067377-9f1bdbbb-7868-4b11-8bed-f98680735040](https://github.com/charumathiramesh/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/120204455/1d6e9ca6-3ecf-4029-828b-1993ca653c66)
 
-199067370-21f6e068-3851-4596-bad3-35dc02d079a6 199067368-23904c41-d2d1-4e62-83d0-29a65b810abe 199067364-67b76106-9b8d-4758-a093-ec7e7f4b2d32
 
-199067359-63750fd2-98e8-438d-a32c-ae84cb1d27e4
 
-199067356-69f818c1-d425-48e8-beb3-281e00b6ecba 199067352-588a14f1-b111-4fc6-801d-acb4fd847520
 
-199067351-3e334116-ed7b-441b-93e6-20737be81d24
 
-199067346-56d58684-54aa-478a-98ac-f9841f1b846e
 
-199067342-fbdbcd76-c1d0-4fb3-95cb-d847e85e0d51
 
-199067377-9f1bdbbb-7868-4b11-8bed-f98680735040
+
 # Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
